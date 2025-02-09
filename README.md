@@ -1,4 +1,4 @@
-# 🖊️ Handwritten Digit Recognition using CNN
+# 🖊️Digit Recognition using CNN
 
 This project implements a **handwritten digit recognition system** using a **Convolutional Neural Network (CNN)** trained on the **MNIST dataset**. The model can classify digits (0-9) and is integrated with a **GUI for drawing digits** using Tkinter.
 
