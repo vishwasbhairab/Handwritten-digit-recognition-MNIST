@@ -7,18 +7,24 @@ This project implements a **handwritten digit recognition system** using a **Con
 ✅ Draw a digit on the canvas and predict its value.  
 ✅ Displays **top prediction** with confidence percentage.  
 ✅ Uses a **pre-trained CNN model** for high accuracy.  
-✅ Supports **real-time digit recognition** using OpenCV (optional).  
+✅ Supports **real-time digit recognition** using OpenCV.  
 ✅ Simple GUI using **Tkinter**.
 
 
 
 ---
 ## 🖥️ How It Works
+### 1. draw
 1️⃣ Draw a digit on the canvas.
 2️⃣ Click the **'Predict'** button.
 3️⃣ The model predicts the digit and displays the **confidence score**.
 4️⃣ Click **'Clear'** to redraw and try again!
-
+### 2. webcam
+1️⃣ Start the script – The webcam feed opens 📷
+2️⃣ Write a digit on paper and hold it up to the camera
+3️⃣ The model detects, processes, and predicts the digit 🧠
+4️⃣ The digit is displayed on the screen in real-time
+5️⃣ Press 'Q' to exit
 ---
 ## 🔥 Future Enhancements
 🔹 Deploy as a **web app** using Flask or Streamlit.  
