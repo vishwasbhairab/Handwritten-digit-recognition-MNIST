@@ -30,11 +30,6 @@ This project implements a **handwritten digit recognition system** using a **Con
 ## 🤝 Contributing
 Feel free to fork the repository, make improvements, and submit pull requests. 😊
 
----
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
 ## ✨ Acknowledgments
 🔹 **MNIST Dataset** - Used for training the model.  
 🔹 **TensorFlow & Keras** - For implementing the CNN.  
