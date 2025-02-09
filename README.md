@@ -11,33 +11,6 @@ This project implements a **handwritten digit recognition system** using a **Con
 ✅ Simple GUI using **Tkinter**.
 
 
----
-## 🛠️ Installation & Setup
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/Handwritten-Digit-Recognition.git
-cd Handwritten-Digit-Recognition
-```
-
-### 2️⃣ Install Dependencies
-Install required libraries using:
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the GUI
-Run the Tkinter-based digit recognition GUI:
-```bash
-python src/digit_gui.py
-```
-
----
-## 📊 Model Training (Optional)
-If you want to **retrain the model**, use the Jupyter Notebook:
-```bash
-jupyter notebook
-# Open 'notebook/digit_recognition.ipynb' and run all cells.
-```
 
 ---
 ## 🖥️ How It Works
